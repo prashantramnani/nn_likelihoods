@@ -1,7 +1,7 @@
 import json 
   
 # Opening JSON file 
-f = open('data.json',) 
+f = open('data_ddm_flexbound_constant.json',) 
   
 # returns JSON object as  
 # a dictionary 
